@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("pedro.jpg");
+  text-align: center;
+}
+
+iframe {
+  margin-top: 5rem;
+}
+
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+  margin-top: 2rem;
+}
